@@ -9,3 +9,4 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Standardised Columns
 - Stored Cleaned Databases' in SQL
 - Used random integers to select rows to modify
+- Mainly used pandas and numpy to resolve issues, some functions made
