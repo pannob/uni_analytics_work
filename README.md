@@ -22,7 +22,6 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Using absenteeism at work dataset from UCI Machine Learning Repository developed machine learning pipeline to predict employee absenteeism.
 - Used Decision Tree, SVM and KNN models.
 - Each model tuned using relevant paramters: decision tree used optimised alpha values, SVM with kernel changes, KNN with K. 
-
 - Second Link/Task:
 - Deep Learning for Image classification.
 - Used existing convolutional neural network classifier to classify given images into classes.
