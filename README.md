@@ -14,4 +14,4 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 # 2) rstudio_statics.pdf (Statistical Analysis and Visualisation using R)
 - Simple Linear Regression, fit log models, confidance and prediction bands
 - Multiple Regression, created histogram for player performance, created poisson model, used p-values to perform likelihood ratio test
-- Lasso + Logistic Regression, created test/train data to fit logistic model using glmnet, cross-validation to choose model, ROC curves to summarise findings, found youdens indx and calculated confusion matricies, sensitivity and specificity as a function of a column are calculated and plotted on bars to analyse effectiveness of predictions
+- Lasso + Logistic Regression, created test/train data to fit logistic model using glmnet, cross-validation to choose model, ROC curves to summarise findings, found youdens index and calculated confusion matricies, sensitivity and specificity as a function of a column are calculated and plotted on bars to analyse effectiveness of predictions
