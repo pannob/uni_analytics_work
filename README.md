@@ -18,5 +18,5 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 
 # 3) machine_learning_cw.pdf (Machine Learning task using python)
 ### google colab links available at the end of the pdf file
-- using absenteeism at work dataset from UCI Machine Learning Repository developed machine learning pipeline to predict employee absenteeism
+- Using absenteeism at work dataset from UCI Machine Learning Repository developed machine learning pipeline to predict employee absenteeism
 - 
