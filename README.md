@@ -1,6 +1,6 @@
 # Philip's Projects
 
-# 1) PYTHON_SQL_CW.ipynb
+# 1) PYTHON_SQL_CW.ipynb (Basics)
 
 This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Renamed Columns
