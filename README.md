@@ -12,9 +12,16 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Mainly used pandas and numpy to resolve issues, some functions made.
 
 # 2) rstudio_statics.pdf (Statistical Analysis and Visualisation using R)
-- Simple Linear Regression, fit log models, confidance and prediction bands
-- Multiple Regression, created histogram for player performance, created poisson model, used p-values to perform likelihood ratio test
-- Lasso + Logistic Regression, created test/train data to fit logistic model using glmnet, cross-validation to choose model, ROC curves to summarise findings, found youdens index and calculated confusion matricies, sensitivity and specificity as a function of a column are calculated and plotted on bars to analyse effectiveness of predictions
+- Simple Linear Regression
+- Multiple Regression
+- Poisson Model
+- Created Histograms
+- P-values and Likelihood ratios used
+- Lasso and Logistic Regression
+- Fit Logistic model using glmnet
+- Cross-validated models to select model
+- ROC plotted to summarise findings
+- Sensitivity and Specificity used as a function of a column and plotted to determine effectiveness of predictions
 
 # 3) machine_learning_cw.pdf (Machine Learning task using python)
 ### google colab links available at the end of the pdf file
