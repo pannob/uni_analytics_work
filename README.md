@@ -2,6 +2,15 @@
 
 # 1) PYTHON_SQL_CW.ipynb (Basics/Introduction)
 
+Simple data manipulation and wrangling using SQL
+- Used simple SQL functions
+- Used aggregate functions
+- Used CTE
+- Used temp tables
+- created views
+
+# 1) PYTHON_SQL_CW.ipynb (Basics/Introduction)
+
 This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Renamed Columns.
 - Dealt with missing values.
