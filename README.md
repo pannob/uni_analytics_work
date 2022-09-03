@@ -33,11 +33,11 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Sensitivity and Specificity used as a function of a column and plotted to determine effectiveness of predictions
 
 # 3) machine_learning_cw.pdf (Machine Learning task using python)
-### google colab links available at the end of the pdf file
 #### First Link/Task:
 - Using absenteeism at work dataset from UCI Machine Learning Repository developed machine learning pipeline to predict employee absenteeism.
 - Used Decision Tree, SVM and KNN models.
 - Each model tuned using relevant paramters: decision tree used optimised alpha values, SVM with kernel changes, KNN with K. 
+- https://colab.research.google.com/drive/17K0jzD4pywBQVuPbcez2dEnOjvinHq99?usp=sharing
 #### Second Link/Task:
 - Deep Learning for Image classification.
 - Used existing convolutional neural network classifier to classify given images into classes.
