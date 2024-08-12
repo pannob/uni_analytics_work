@@ -1,5 +1,3 @@
-# Philip's Projects
-
 # 1) project_1_covid.sql (SQL Run through)
 
 Simple data manipulation and wrangling using SQL
