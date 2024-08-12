@@ -1,4 +1,6 @@
-# 1) project_1_covid.sql (SQL Run through)
+# Philip's University Projects 
+
+## 1) project_1_covid.sql (SQL Run through)
 
 Simple data manipulation and wrangling using SQL
 - Used simple SQL functions
@@ -7,7 +9,7 @@ Simple data manipulation and wrangling using SQL
 - Used temp tables
 - created views
 
-# 2) PYTHON_SQL_CW.ipynb (Basics/Introduction)
+## 2) PYTHON_SQL_CW.ipynb (Basics/Introduction)
 
 This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Renamed Columns.
@@ -18,7 +20,7 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - Used random integers to select rows to modify.
 - Mainly used pandas and numpy to resolve issues, some functions made.
 
-# 3) rstudio_statics.pdf (Statistical Analysis and Visualisation using R)
+## 3) rstudio_statics.pdf (Statistical Analysis and Visualisation using R)
 - Simple Linear Regression
 - Multiple Regression
 - Poisson Model
@@ -30,7 +32,7 @@ This project required given data to be: Cleaned, Formatted, Stored and Modified.
 - ROC plotted to summarise findings
 - Sensitivity and Specificity used as a function of a column and plotted to determine effectiveness of predictions
 
-# 4) machine_learning_cw.pdf (Machine Learning task using python)
+## 4) machine_learning_cw.pdf (Machine Learning task using python)
 #### First Link/Task:
 - Using absenteeism at work dataset from UCI Machine Learning Repository developed machine learning pipeline to predict employee absenteeism.
 - Pandas, Numpy, Seaborn, Matplotlib, sklearn
